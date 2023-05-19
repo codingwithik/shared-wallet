@@ -3,4 +3,4 @@ A sample Web3 project that allows users to shared a common wallet. It provides t
 
 # run project
 Enter `node app.js` in the command line <br>
-// go to: http://localhose:3000/index.html
+// go to: http://localhost:3000/index.html
